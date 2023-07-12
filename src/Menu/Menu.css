@@ -1,0 +1,35 @@
+.nav-tabs .nav-item .nav-link:focus{
+    background-color: #FF7A50;
+    color: #fff;
+}
+
+.nav-tabs .nav-item .nav-link{
+    width: 210px;
+    height: 70px;
+}
+
+.cart{
+    background-color: #FF7A50;
+    width: 106px;
+    height: 32px;
+    border-radius: 2px;
+    border: none;
+    color: #fff;
+}
+
+
+
+@media (max-width:400px) {
+
+    .nav .nav-tabs .nav-fill{
+        display: flex;
+        flex-direction: column;
+    }
+    .nav .nav-item{
+        width: 100%;
+    }
+}
+
+
+
+

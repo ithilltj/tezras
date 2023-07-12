@@ -1,0 +1,38 @@
+.Curer{
+    background: url(../img/Scooter\ Guy.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+.orange{
+    color: #FF7A50;
+}
+
+
+.navbar{
+    box-sizing: border-box;
+    max-height: 100px;
+}
+
+.navbar-nav .nav-link:hover{
+ border-bottom: 2px solid #FF7A50;
+}
+
+
+
+@media (max-width:700px) {
+
+    .navbar #phone{
+
+      width: 50%;
+        
+    }
+
+    
+
+    .navbar-nav .nav-link{
+        font-size: 10px;
+    }
+    
+}
+

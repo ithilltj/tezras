@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2247914.css",
+    "main.js": "/static/js/main.20cdaff3.js",
+    "static/js/787.8aabea37.chunk.js": "/static/js/787.8aabea37.chunk.js",
+    "static/media/блюда_DoV (6).png": "/static/media/блюда_DoV (6).414f89350116c0805c21.png",
+    "static/media/sandwich2.PNG": "/static/media/sandwich2.f3a2c6633f286cfd6b6b.PNG",
+    "static/media/pizza3.PNG": "/static/media/pizza3.fa0a8e6fade122e8c0d3.PNG",
+    "static/media/1642364003_7-papik-pro-p-plov-klipart-8.png": "/static/media/1642364003_7-papik-pro-p-plov-klipart-8.c249006dd7b2f5e274b9.png",
+    "static/media/pizza2.PNG": "/static/media/pizza2.a6b210c06414e20a6bcb.PNG",
+    "static/media/sandwich1.PNG": "/static/media/sandwich1.9380a34f99ca91c88ab7.PNG",
+    "static/media/sandwich3.PNG": "/static/media/sandwich3.43fa8216009ba4364a3d.PNG",
+    "static/media/pizza1.PNG": "/static/media/pizza1.8a5f45f306bce92e67d9.PNG",
+    "static/media/Tajikistan-2019-1445_new-removebg-preview.png": "/static/media/Tajikistan-2019-1445_new-removebg-preview.6fae1feba07f6c1717ed.png",
+    "static/media/sandwich4.PNG": "/static/media/sandwich4.2466ad9ec619743197c2.PNG",
+    "static/media/Scooter Guy.png": "/static/media/Scooter Guy.a863dafd19a5173a426e.png",
+    "static/media/pizza4.PNG": "/static/media/pizza4.f14a010478dfb74babeb.PNG",
+    "static/media/item_01-480x480 1.png": "/static/media/item_01-480x480 1.6de5833e2bb0b2795d09.png",
+    "static/media/item_01-480x480 3.png": "/static/media/item_01-480x480 3.8c99b2e55fa863891e24.png",
+    "static/media/item_01-480x480 2.png": "/static/media/item_01-480x480 2.77517a763d721a271f8a.png",
+    "static/media/item_01-480x480 4.png": "/static/media/item_01-480x480 4.0717b0e5f427885fc60a.png",
+    "static/media/TezRas.svg": "/static/media/TezRas.2f896b0ee9895bc331b95dc498038148.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Buy.svg": "/static/media/Buy.c5e8b3f9d443a840c7a0a5ab743354b6.svg",
+    "static/media/Calling.svg": "/static/media/Calling.883ee02c9096a2451862ad93fe06b76c.svg",
+    "static/media/Location.svg": "/static/media/Location.9a2613c1f4f69d70fddd7976e2684a83.svg",
+    "static/media/Message.svg": "/static/media/Message.fbb40c35c64ca8a1dadf0593bce7f506.svg",
+    "index.html": "/index.html",
+    "main.c2247914.css.map": "/static/css/main.c2247914.css.map",
+    "main.20cdaff3.js.map": "/static/js/main.20cdaff3.js.map",
+    "787.8aabea37.chunk.js.map": "/static/js/787.8aabea37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2247914.css",
+    "static/js/main.20cdaff3.js"
+  ]
+}

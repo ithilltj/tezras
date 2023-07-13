@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2247914.css",
-    "main.js": "/static/js/main.20cdaff3.js",
+    "main.css": "/static/css/main.9bcef56c.css",
+    "main.js": "/static/js/main.535488f5.js",
     "static/js/787.8aabea37.chunk.js": "/static/js/787.8aabea37.chunk.js",
     "static/media/блюда_DoV (6).png": "/static/media/блюда_DoV (6).414f89350116c0805c21.png",
     "static/media/sandwich2.PNG": "/static/media/sandwich2.f3a2c6633f286cfd6b6b.PNG",
@@ -19,19 +19,19 @@
     "static/media/item_01-480x480 3.png": "/static/media/item_01-480x480 3.8c99b2e55fa863891e24.png",
     "static/media/item_01-480x480 2.png": "/static/media/item_01-480x480 2.77517a763d721a271f8a.png",
     "static/media/item_01-480x480 4.png": "/static/media/item_01-480x480 4.0717b0e5f427885fc60a.png",
-    "static/media/TezRas.svg": "/static/media/TezRas.2f896b0ee9895bc331b95dc498038148.svg",
+    "static/media/TezRas ДОСТАВКА.svg": "/static/media/TezRas ДОСТАВКА.77ab66105568f77b91e422eb9368cbcb.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/Buy.svg": "/static/media/Buy.c5e8b3f9d443a840c7a0a5ab743354b6.svg",
     "static/media/Calling.svg": "/static/media/Calling.883ee02c9096a2451862ad93fe06b76c.svg",
     "static/media/Location.svg": "/static/media/Location.9a2613c1f4f69d70fddd7976e2684a83.svg",
     "static/media/Message.svg": "/static/media/Message.fbb40c35c64ca8a1dadf0593bce7f506.svg",
     "index.html": "/index.html",
-    "main.c2247914.css.map": "/static/css/main.c2247914.css.map",
-    "main.20cdaff3.js.map": "/static/js/main.20cdaff3.js.map",
+    "main.9bcef56c.css.map": "/static/css/main.9bcef56c.css.map",
+    "main.535488f5.js.map": "/static/js/main.535488f5.js.map",
     "787.8aabea37.chunk.js.map": "/static/js/787.8aabea37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2247914.css",
-    "static/js/main.20cdaff3.js"
+    "static/css/main.9bcef56c.css",
+    "static/js/main.535488f5.js"
   ]
 }

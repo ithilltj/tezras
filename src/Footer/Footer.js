@@ -3,10 +3,12 @@ import { Container} from 'react-bootstrap';
 import { Row } from 'react-bootstrap';
 import { Col } from 'react-bootstrap';
 import Nav from 'react-bootstrap/Nav';
-import logo from '../img/TezRas.svg'
+import logo from '../img/logo-tez-removebg-preview.png'
 import location from '../img/Location.svg'
 import calling from '../img/Calling.svg'
 import message from '../img/Message.svg'
+import instalogo from '../img/insta-icon.png'
+
 
 
 
@@ -22,23 +24,30 @@ function Footer() {
         <Row>
     <Col>
 
-    <Nav.Link><img  src={logo}/></Nav.Link>
+    <Nav.Link><img  src={logo} alt='logo'/></Nav.Link>
     
     </Col>
 
     <Col>
-    <h2>Контакт</h2>
+    <h4>Контакт</h4>
     <div>
      <img src={location} alt='location'/> <span>Бохтар</span>   
     </div>
 
     <div>
-     <img src={calling} /> <span>+992 000 440 060</span>   
+     <img src={calling} alt='call'/> <span>+992 000 440 060</span>   
     </div>
 
     <div>
-     <img src={message} /> <span>it.hill.tj@gmail.com</span>   
+     <img src={message} alt='message'/> <span>it.hill.tj@gmail.com</span>   
     </div>
+    </Col>
+
+    <Col>
+    <div>
+      <h4>Мы в социальных сетях</h4>
+    </div>
+     <Nav.Link href='https://www.instagram.com/tezras_bokhtar'><img  src={instalogo} width={40}/> </Nav.Link>
     </Col>
         </Row>
 

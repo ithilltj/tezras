@@ -1,3 +1,4 @@
+
 .nav-tabs .nav-item .nav-link:focus{
     background-color: #FF7A50;
     color: #fff;
@@ -19,16 +20,59 @@
 
 
 
-@media (max-width:400px) {
-
-    .nav .nav-tabs .nav-fill{
-        display: flex;
-        flex-direction: column;
-    }
-    .nav .nav-item{
-        width: 100%;
-    }
+.card{
+    background:#fff
 }
+
+
+
+.cart:active{
+    background-color: #fff;
+    color: #FF7A50;
+}
+
+.card-layout{
+    width: 330px;
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+
+.card-layout:hover{
+    filter: brightness(1.1);
+    cursor: pointer;
+}
+
+@media (max-width:567px){
+    .tabb{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        row-gap: 10px;
+    }
+
+        
+    .nav-item{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #fill-tab-example-tab-burger {
+        width: 300px;
+    }
+
+    
+}
+
+
+
+
+
+
+
 
 
 
